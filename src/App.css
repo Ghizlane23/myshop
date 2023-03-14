@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.logo{
+  height:50px;
+  width:50px;
+}
+h1 span{
+  color:red;
+}
+ h3 span {
+  color:white;
+}
+.container{
+  position: relative;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+.box{
+  position:absolute;
+
+}
